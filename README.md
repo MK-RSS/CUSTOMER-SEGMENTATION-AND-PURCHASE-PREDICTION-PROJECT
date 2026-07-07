@@ -199,6 +199,41 @@ Customer-Segmentation-Project
 ## 📷 Project Screenshots
 
 > Add your **32 graph screenshots** inside the `graphs` folder and include selected images below.
+><img width="800" height="500" alt="Figure_1" src="https://github.com/user-attachments/assets/9bd17078-0b5b-4c1c-b353-dc03e1ecca27" />
+<img width="800" height="500" alt="Figure_2" src="https://github.com/user-attachments/assets/8486aaaf-2829-4229-90eb-1ac87eeec9de" />
+<img width="800" height="500" alt="Figure_3" src="https://github.com/user-attachments/assets/7666d005-7a7f-41a3-b01c-0c596ba733c9" />
+<img width="1200" height="600" alt="Figure_4" src="https://github.com/user-attachments/assets/133f88d3-c5ad-4121-b6ff-5eeabd082a7e" />
+<img width="1000" height="500" alt="Figure_5" src="https://github.com/user-attachments/assets/81f7e554-6afa-4d69-bf68-ab9b15571ee6" />
+<img width="1200" height="600" alt="Figure_6" src="https://github.com/user-attachments/assets/4f7c6ae3-7d2a-451a-b119-0290c470968a" />
+<img width="1200" height="600" alt="Figure_7" src="https://github.com/user-attachments/assets/b0680a1b-e34a-44da-8314-61e3223a0031" />
+<img width="1000" height="500" alt="Figure_8" src="https://github.com/user-attachments/assets/24f18aa6-4d25-440e-8715-b14375881d1a" />
+<img width="800" height="600" alt="Figure_9" src="https://github.com/user-attachments/assets/d548d69e-f951-4de5-8b85-250b9fe935a9" />
+<img width="1200" height="600" alt="Figure_10" src="https://github.com/user-attachments/assets/16ce6cb2-58b6-46dd-8684-648037c3dd3d" />
+<img width="800" height="600" alt="Figure_11" src="https://github.com/user-attachments/assets/61eb03f4-075d-450d-aa12-4ac7a277d3ed" />
+<img width="750" height="646" alt="Figure_12" src="https://github.com/user-attachments/assets/094ab327-c017-4b95-8e0f-ec3f88812306" />
+<img width="800" height="500" alt="Figure_13" src="https://github.com/user-attachments/assets/d773d684-1767-4049-8022-c6d2a8919c28" />
+<img width="800" height="500" alt="Figure_14" src="https://github.com/user-attachments/assets/1cfc915b-ddb7-41b3-adb2-d252bec4fe2e" />
+<img width="800" height="500" alt="Figure_15" src="https://github.com/user-attachments/assets/ac289867-f190-4409-8f48-f27c66f0ae93" />
+<img width="800" height="500" alt="Figure_16" src="https://github.com/user-attachments/assets/da380d62-b912-4aad-a91c-56d138ac1668" />
+<img width="1200" height="600" alt="Figure_17" src="https://github.com/user-attachments/assets/465d33cc-c7de-467b-a003-7ded7c289b60" />
+<img width="1200" height="600" alt="Figure_18" src="https://github.com/user-attachments/assets/f47234a6-5932-4e05-8566-723de1257ef4" />
+<img width="1366" height="655" alt="Figure_19" src="https://github.com/user-attachments/assets/13e3bfd4-daa7-4a5f-a496-db3ff8dedc58" />
+<img width="1366" height="655" alt="Figure_20" src="https://github.com/user-attachments/assets/d17d01d0-4589-4772-926e-d0936da20d59" />
+<img width="800" height="500" alt="Figure_21" src="https://github.com/user-attachments/assets/45fd932f-d193-498e-975d-2242145b69d1" />
+<img width="800" height="500" alt="Figure_22" src="https://github.com/user-attachments/assets/3124756d-6fdf-4b7d-a872-72f2047ae8a7" />
+<img width="800" height="500" alt="Figure_23" src="https://github.com/user-attachments/assets/e509e0f0-8960-4c36-852b-cde2abcb4527" />
+<img width="800" height="500" alt="Figure_24" src="https://github.com/user-attachments/assets/8936b130-a8c6-4b17-8d67-2049099f273d" />
+<img width="1000" height="600" alt="Figure_25" src="https://github.com/user-attachments/assets/9787ada8-ca8b-4b8c-9973-f8eb118e0a63" />
+<img width="1000" height="600" alt="Figure_26" src="https://github.com/user-attachments/assets/07a5452f-dbb4-4e9e-9a6d-8c6e4419fe8c" />
+<img width="600" height="500" alt="Figure_27" src="https://github.com/user-attachments/assets/3ab0309e-c050-4dab-8e48-f9d0c7606ea2" />
+<img width="800" height="500" alt="Figure_28" src="https://github.com/user-attachments/assets/d376efb0-20b8-4257-b39b-0d559bba33f9" />
+<img width="800" height="500" alt="Figure_29" src="https://github.com/user-attachments/assets/09b28c53-e20e-4b7b-bc99-88cf49cb4262" />
+<img width="600" height="500" alt="Figure_30" src="https://github.com/user-attachments/assets/672dd02c-5e76-4b7a-b73f-5dcfcd0b15a3" />
+<img width="800" height="500" alt="Figure_31" src="https://github.com/user-attachments/assets/72ca886a-0eac-4b21-8169-618a353d613a" />
+<img width="1366" height="655" alt="Figure_33" src="https://github.com/user-attachments/assets/e29f976b-827c-4479-8bec-4a8bcc8a7b45" />
+<img width="900" height="500" alt="Figure_34" src="https://github.com/user-attachments/assets/12bef300-6554-41b4-a2ac-a3dfa68b52e8" />
+<img width="900" height="500" alt="Figure_35" src="https://github.com/user-attachments/assets/5dd454e3-86b3-4a99-a195-fb8a1bdad19f" />
+<img width="900" height="500" alt="Figure_36" src="https://github.com/user-attachments/assets/54e3ca43-236d-4fc0-9fba-5def20066ac2" />
 
 Example:
 
